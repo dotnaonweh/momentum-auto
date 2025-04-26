@@ -1,0 +1,14 @@
+{
+  "shuffleAccounts": false,
+  "shuffleTokenPairs": false,
+  "accounts": [
+    {
+      "nickname": "X",
+      "suiPrivateKey": "X"
+    },
+    {
+      "nickname": "X",
+      "suiPrivateKey": "X"
+    }
+  ]
+}
